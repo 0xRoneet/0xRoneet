@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xRoneet&label=Profile%20views&color=0e75b6&style=flat" alt="0xRoneet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dynammo&label=Profile%20views&color=0e75b6&style=flat" alt="0xRoneet" /> </p>
 
 - 🔭 I’m currently working on [Campus Connect](https://github.com/RizzlingDev-s/Campus-Connect)
 
@@ -58,6 +58,8 @@
 <br><br><br><br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRoneet&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="0xRoneet" /></p>
+
+<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xRoneet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Roneet Yadav's Github Stats">
 
 
