@@ -69,7 +69,7 @@
 
  ![Roneet Yadav's GitHub | Stats](https://stats.quine.sh/0xRoneet/github?theme=dark)
 
- [![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xRoneet)](https://holopin.io/@0xRoneet)
+[![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devxinnovate)](https://holopin.io/@devxinnovate)
 
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=0xRoneet&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
